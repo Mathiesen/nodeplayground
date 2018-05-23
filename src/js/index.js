@@ -1,9 +1,9 @@
-import './index.css';
+import '../css/index.css';
 import moment from 'moment';
 import { DataSet, Graph2d } from 'vis/index-timeline-graph2d';
 import 'vis/dist/vis-timeline-graph2d.min.css';
 
-var container = document.getElementById('visualization2');
+var container = document.getElementById('visualization');
 var data = [
     {x: '2017-07-01', y: 23},
     {x: '2017-07-02', y: 18},
