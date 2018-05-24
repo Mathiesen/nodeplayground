@@ -12,7 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "moment": "^2.22.1",
+    "hoek": "^5.0.3",
+    "moment": "^2.21.0",
     "vis": "^4.21.0",
     "whatwg-fetch": "1.0.0"
   },
